@@ -1,7 +1,5 @@
-# This blocklist helps Pi-hole's admin restrict access to Facebook and its domains.
-# Curated from my own log and some more sources online.
-# Last updated: 3rd October 2017
-
+# This blocklist helps Pi-hole's admin restrict access to Facebook sponsored ads. 
+# Last updated on the 12/07/2018
 127.0.0.1 scontent-1.2914.fna.fbcdn.net
 127.0.0.1 scontent-2.2914.fna.fbcdn.net
 127.0.0.1 scontent-a-ams.xx.fbcdn.net
